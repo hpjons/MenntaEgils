@@ -1,12 +1,12 @@
 LOTUPLAN 1
 
 Þriðjudagur
------------
+---
 Farið yfir kennsluáætlun áfangans. Upphaf rafmagnsfræða (grein 1.1 í viðbót 1). Rafhleðsla og rafkraftur (grein 1.2 í Viðbót 1). 
 Viðbót 1: 1.1, 1.2, 1.4, 1.5
 
 Miðvikudagur
-------------
+---
 Rafhleðsla og rafkraftur (gr. 13.1 í kennslubók og gr. 1.2 í vikubr. 1).
 Kafli 13: 
 0.2, 0.5
