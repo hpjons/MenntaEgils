@@ -1,4 +1,4 @@
-== LOTUPLAN 1 ==
+# LOTUPLAN 1
 
 Þriðjudagur
 -----------
